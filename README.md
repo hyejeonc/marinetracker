@@ -35,3 +35,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+### Reference 
+1. Python Selenium 사용법 [파이썬 셀레늄 사용법, 크롤링] https://greeksharifa.github.io/references/2020/10/30/python-selenium-usage/
